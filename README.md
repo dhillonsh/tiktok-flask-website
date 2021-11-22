@@ -1,7 +1,8 @@
 # Local
 ```
 python -m venv virtualenv
-virtualenv/Scripts/activate.bat
+.\virtualenv\Scripts\activate
+pip install -r requirements.txt
 
 python app.py
 ```
